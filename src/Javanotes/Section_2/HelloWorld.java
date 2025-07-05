@@ -1,4 +1,4 @@
-package Section_2;
+package Javanotes.Section_2;
 
 public class HelloWorld {
     public static void main(String[] args) {
